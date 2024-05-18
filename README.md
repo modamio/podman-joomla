@@ -208,10 +208,10 @@ Después de configurar MySQL, saldremos del contenedor y ejecutaremos el siguien
 ```
 
 Ahora entraremos al navegador e ingresaremos a esta URL: http://localhost:8080 para entrar a Joomla, donde debemos completar la siguiente información.
-![Joomla config 1](./assets/joomla1.PNG)
+![Joomla config 1](./joomla1.PNG)
 
 En la configuración de la base de datos, ingresaremos los siguientes datos.
-![Joomla config 2](./assets/joomla2.PNG)
+![Joomla config 2](./joomla2.PNG)
 
 Podemos observar un error debido a que no existe el archivo solicitado. Ingresaremos al contenedor:
 ```bash
